@@ -1,6 +1,6 @@
-<h1 align="center">Hi friend👋, I'm Nicolás Caminos</h1>
+<h1 align="center">Hi friend👋, I'm Nicolás Maximiliano Caminos</h1>
 <h3 align="center">A passionate 
-systems analyst and fullstack developer from Córdoba, Argentina</h3>
+systems analyst and fullstack developer from Córdoba, Argentina.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
