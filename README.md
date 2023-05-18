@@ -5,7 +5,7 @@ systems analyst and fullstack developer from Córdoba, Argentina.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nicoasis16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nicoasis16" height="30" width="40" /></a>
-<a href="https://instagram.com/nicolas_caminos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolas_caminos" height="30" width="40" /></a><a href="[https://instagram.com/nicolas_caminos](https://www.linkedin.com/in/nicolascaminos/)" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="nicolas_caminos" height="30" width="40" /></a>
+<a href="https://instagram.com/nicolas_caminos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolas_caminos" height="30" width="40" /></a><a href="[https://instagram.com/nicolas_caminos](https://www.linkedin.com/in/nicolascaminos/)" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="nicolas_caminos" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
